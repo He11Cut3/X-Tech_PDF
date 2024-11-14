@@ -7,7 +7,12 @@
     <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>Image\337946.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Image\337946.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Aspose.PDF" Version="24.10.0" />

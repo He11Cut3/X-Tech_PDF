@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yO0Uc8poskqxDN0bpLLWZWk6GvFQUbalVFiqfQ3KNVuzCOm7fmviAh/QyMGuUum9Utpv452ZBiQI5L4cKr9JLw==",
+  "dgSpecHash": "NhZSTK5g0VOFH0zarFXtXQyG5jW2DswIozisClqjJ+xcBsr0ocbO/oEz+kDPtDX5q7g7CryTudbWlvpF4K0Lug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\X-Tech_TestWork(2)\\X-Tech_TestWork(2).csproj",
+  "projectFilePath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\X-Tech_PDF\\X-Tech_PDF\\X-Tech_TestWork(2)\\X-Tech_TestWork(2).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kek13\\.nuget\\packages\\aspose.pdf\\24.10.0\\aspose.pdf.24.10.0.nupkg.sha512",
     "C:\\Users\\kek13\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
