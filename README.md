@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/Framework-ASP.NET_8.0-purple?logo=dotnet) ![Static Badge](https://img.shields.io/badge/Language-C%23-purple?logo=csharp)
 
 
-# X-Tech Test Work
+# X-Tech PDF
 
 Это тестовое приложение для генерации PDF-файлов с данными, введёнными пользователем в окно приложения. Приложение использует паттерн **MVVM** и включает в себя функциональность для создания Excel-файла, который затем конвертируется в PDF.
 ## Описание
